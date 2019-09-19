@@ -1,2 +1,2 @@
 # wireframe
-wire-frame  using HTML/CSS
+This is bare-bones wire-frame using HTML and CSS.
