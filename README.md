@@ -3,25 +3,24 @@
 
 It uses the following HTML elements:
 
-<head>
+Heading level 1
+----------------
   
-<body>
+**body**
   
-<div>
+*div*
    
-<header>
+**header**
     
- <nav>
+**navbar**
   
-<section>
+*section*
     
- <article>
-      
-  <h1>
+ **article**
    
-   <p>
+ **paragraph**
     
-  <aside>
+ **aside**
     
-  <footer>
+ **footer**
     
