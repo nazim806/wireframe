@@ -3,7 +3,7 @@
 
 It uses the following HTML elements:
 
-**<head>** 
+<head>
   
 **<body>** 
   
