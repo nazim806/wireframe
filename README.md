@@ -23,5 +23,5 @@ It uses the following HTML elements:
     
   <aside>
     
-  footer>
+  <footer>
     
