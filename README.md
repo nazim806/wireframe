@@ -5,23 +5,23 @@ It uses the following HTML elements:
 
 <head>
   
-**<body>** 
+<body>
   
-**<div>**
+<div>
    
-**<header>::
+<header>
     
- **<nav>**
+ <nav>
   
- **<section>**
+<section>
     
- **<article>**
+ <article>
       
-  **<h1>**
+  <h1>
    
-   **<p>**
+   <p>
     
-  **<aside>**
+  <aside>
     
-  **<footer>**
+  footer>
     
