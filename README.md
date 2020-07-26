@@ -3,18 +3,18 @@
 
 It uses the following HTML elements:
 
-Heading level 1
-----------------
+**Heading level 1**
+
   
 **body**
   
-*div*
+**div**
    
 **header**
     
 **navbar**
   
-*section*
+**section**
     
  **article**
    
